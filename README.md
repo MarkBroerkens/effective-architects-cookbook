@@ -1,2 +1,2 @@
-# effective-architects-cookbook
+# Effective Architect's Cookbook
 delicious recipes for effective architects
