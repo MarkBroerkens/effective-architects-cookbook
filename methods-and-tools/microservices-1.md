@@ -1,6 +1,6 @@
 # Microservices
 
-### Comparison to Monolith
+## Comparison to Monolith
 
 * Microservices are relatively small
 * By comparison to a monolith
@@ -9,16 +9,16 @@
 * No orchestration
 * Communicate exclusively via API
 
-### Benefits
+## Benefits
 
-#### Team
+### Team
 
 * Microservices help organize teams
 * Concentrate expertise
 * Independent governance
 * Balance decentralized decision-making with elevation of important topics
 
-#### Maintenance Advantages
+### Maintenance Advantages
 
 * Create a clean break from an old, poor-quality codebase
 * Small size
@@ -29,7 +29,7 @@
 * Performance management at scale
 * Reinforce architectural boundaries
 
-#### Resilience
+### Resilience
 
 * Not all-or-nothing
 * Uptime
