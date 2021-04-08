@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Effective Architect's Cookbook](README.md)
+* [Microservices](microservices.md)
 * [Books](books.md)
 * [References](references.md)
 
