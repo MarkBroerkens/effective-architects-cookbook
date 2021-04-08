@@ -12,6 +12,7 @@
 
 ## Methods and Tools
 
+* [Microservices](methods-and-tools/microservices-1.md)
 * [git](methods-and-tools/git.md)
 * [Microservices](methods-and-tools/microservices.md)
 * [Untitled](methods-and-tools/untitled.md)
