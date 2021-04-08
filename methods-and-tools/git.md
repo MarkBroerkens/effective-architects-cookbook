@@ -1,4 +1,4 @@
-# git 
+# git
 
 create a new repository then duplicate your code from last project to it.
 
@@ -12,4 +12,5 @@ cd ..
 rm -rf old-repository.git
 ```
 
-Source: https://help.github.com/articles/duplicating-a-repository/
+Source: [https://help.github.com/articles/duplicating-a-repository/](https://help.github.com/articles/duplicating-a-repository/)
+
