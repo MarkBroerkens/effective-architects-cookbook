@@ -1,2 +1,4 @@
 # Effective Architect's Cookbook
-delicious recipes for effective architects
+
+delecious recipies for the daily work of effective architects
+
