@@ -12,9 +12,9 @@
 
 * [ROS](methods-and-tools/ros.md)
 * [Legal](methods-and-tools/legal.md)
-* [Tools](methods-and-tools/untitled/README.md)
-  * [Documentation as Code](methods-and-tools/untitled/documentation-as-code.md)
-  * [git](methods-and-tools/untitled/git.md)
+* [Documentation](methods-and-tools/documentation-as-code.md)
+* [Tools](methods-and-tools/tools/README.md)
+  * [git](methods-and-tools/tools/git.md)
 * [Microservices](methods-and-tools/microservices.md)
 
 ## Human Skills
