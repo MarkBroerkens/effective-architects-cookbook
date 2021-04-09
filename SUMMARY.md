@@ -15,10 +15,10 @@
 * [Microservices](methods-and-tools/microservices-1.md)
 * [git](methods-and-tools/git.md)
 * [Microservices](methods-and-tools/microservices.md)
-* [Untitled](methods-and-tools/untitled.md)
+* [Tools](methods-and-tools/untitled.md)
 
 ## Human Skills
 
 * [Daily Routine](human-skills/routines.md)
-* [Untitled](human-skills/untitled.md)
+* [Leadership](human-skills/untitled.md)
 
