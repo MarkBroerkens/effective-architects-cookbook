@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Effective Architect's Cookbook](README.md)
+* [Legal](legal.md)
 * [Books](books.md)
 * [References](references.md)
 
