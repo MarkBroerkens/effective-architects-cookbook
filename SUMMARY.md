@@ -11,10 +11,10 @@
 ## Methods and Tools
 
 * [Legal](methods-and-tools/legal.md)
-* [Microservices](methods-and-tools/microservices-1.md)
-* [git](methods-and-tools/git.md)
+* [Tools](methods-and-tools/untitled/README.md)
+  * [Documentation as Code](methods-and-tools/untitled/documentation-as-code.md)
+  * [git](methods-and-tools/untitled/git.md)
 * [Microservices](methods-and-tools/microservices.md)
-* [Tools](methods-and-tools/untitled.md)
 
 ## Human Skills
 
