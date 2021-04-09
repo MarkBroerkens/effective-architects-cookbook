@@ -1,6 +1,6 @@
 # Duties of an Architect
 
-## Leadsership
+## Leadership
 
 Leading a Project
 
