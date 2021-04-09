@@ -13,7 +13,9 @@
 
 ### Guidelines for Writing Documentation
 
-* Writing Readmes. [https://github.com/udacity/ud777-writing-readmes](https://github.com/udacity/ud777-writing-readmes)
+* Writing Readmes. Udacity free course: 
+  * [https://www.udacity.com/course/writing-readmes--ud777](https://www.udacity.com/course/writing-readmes--ud777)
+  * [https://github.com/udacity/ud777-writing-readmes](https://github.com/udacity/ud777-writing-readmes)
 * Markdown Syntax - [https://commonmark.org/help/](https://commonmark.org/help/)
 * Although including inline comments in the code is a good practice, the most important piece of a project is the documentation. Similarly, a README file is the go to document in a project. Whenever someone tries to use a piece of software the first document that they look for is the README file.
   * [This web page](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) from github itself will tell you how to write a file on github along with instructions on how to format the documents.
