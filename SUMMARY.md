@@ -10,6 +10,7 @@
 
 ## Methods and Tools
 
+* [ROS](methods-and-tools/ros.md)
 * [Legal](methods-and-tools/legal.md)
 * [Tools](methods-and-tools/untitled/README.md)
   * [Documentation as Code](methods-and-tools/untitled/documentation-as-code.md)
