@@ -1,9 +1,6 @@
 # Table of contents
 
 * [Effective Architect's Cookbook](README.md)
-* [Legal](legal.md)
-* [Books](books.md)
-* [References](references.md)
 
 ## What is an Architect?
 
@@ -13,6 +10,7 @@
 
 ## Methods and Tools
 
+* [Legal](methods-and-tools/legal.md)
 * [Microservices](methods-and-tools/microservices-1.md)
 * [git](methods-and-tools/git.md)
 * [Microservices](methods-and-tools/microservices.md)
@@ -22,4 +20,9 @@
 
 * [Daily Routine](human-skills/routines.md)
 * [Leadership](human-skills/untitled.md)
+
+## Recommended Reading
+
+* [References](recommended-reading/references.md)
+* [Books](recommended-reading/books.md)
 
