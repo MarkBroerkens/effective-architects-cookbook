@@ -1,5 +1,7 @@
 # git
 
+* Git Flight Rules - use case based Git tutorial - [https://github.com/k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) 
+
 create a new repository then duplicate your code from last project to it.
 
 ```bash
