@@ -10,6 +10,7 @@
 * [Floyd May - Medium](https://medium.com/@floyd.may)
 * [Gregor Hohpe - The Architect Elevator](https://architectelevator.com/about/)
 * [Martin Fowler - Software Architecture Guide](https://martinfowler.com/architecture/)
+* ThoughWorks Technology Radar [https://www.thoughtworks.com/de/radar/techniques](https://www.thoughtworks.com/de/radar/techniques?blipid=202010003)
 
 ## Twitter
 
