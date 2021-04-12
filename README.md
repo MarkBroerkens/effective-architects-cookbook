@@ -14,5 +14,5 @@ This book is maintained via Gitbook but can also be edited using markdown in thi
 
 ## License
 
-MIT license
+Creative Commons Attribution 4.0 International
 
