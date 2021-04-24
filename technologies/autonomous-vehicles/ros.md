@@ -35,3 +35,9 @@
 * [Using rviz with the Navigation Stack](http://wiki.ros.org/navigation/Tutorials/Using%20rviz%20with%20the%20Navigation%20Stack)
 * [Localization using GPS, IMU and robot\_localization](https://wiki.nps.edu/display/RC/Localization+using+GPS%2C+IMU+and+robot_localization)
 
+### Mapping
+
+* [OctoMap - An Efficient Probabilistic 3D Mapping Framework Based on Octrees](https://octomap.github.io/)
+
+
+

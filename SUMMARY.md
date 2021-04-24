@@ -8,13 +8,16 @@
 * [Duties of an Architect](what-is-an-architect/duties.md)
 * [Architects and the project's lifecycle](what-is-an-architect/project_lifecycle.md)
 
-## Technologies
+## 🧩 Technologies
 
-* [ROS](technologies/ros.md)
-* [Microservices](technologies/microservices.md)
+* [Autonomous Vehicles](technologies/autonomous-vehicles/README.md)
+  * [ROS](technologies/autonomous-vehicles/ros.md)
+* [Cloud](technologies/cloud/README.md)
+  * [Microservices](technologies/cloud/microservices.md)
 
 ## ⚙️Methods and Tools
 
+* [Agile](methods-and-tools/agile.md)
 * [Knowledge Management](methods-and-tools/knowledge-management/README.md)
   * [Best Practices](methods-and-tools/knowledge-management/best-practices.md)
   * [Documentation as Code](methods-and-tools/knowledge-management/documentation-as-code.md)
