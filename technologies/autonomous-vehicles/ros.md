@@ -34,6 +34,7 @@
 * [Mapping and Localization Tutorial](https://ocw.tudelft.nl/course-lectures/3-3-3-mapping-and-localization-tutorial/)
 * [Using rviz with the Navigation Stack](http://wiki.ros.org/navigation/Tutorials/Using%20rviz%20with%20the%20Navigation%20Stack)
 * [Localization using GPS, IMU and robot\_localization](https://wiki.nps.edu/display/RC/Localization+using+GPS%2C+IMU+and+robot_localization)
+* [Tutorial: Using SLAM for Map Building](https://mushr.io/tutorials/mapping/)
 
 ### Mapping
 
