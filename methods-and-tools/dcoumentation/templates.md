@@ -3,7 +3,9 @@
 ## Architecture
 
 * ADR Architectural decision Records - [https://adr.github.io](https://adr.github.io)
-* Template for architecture communication and documentation - [arc42](https://arc42.org/overview/)
+* Template for architecture communication and documentation
+  * [arc42-documentation](https://docs.arc42.org/home/) 
+  * [arc42-homepage](https://www.arc42.de/)
 * The Open Group Architecture Framework \(TOGAF\) - [Templates](https://publications.opengroup.org/more-categories/templates)
 
 ## Requirements Management

@@ -21,8 +21,9 @@
 * [Knowledge Management](methods-and-tools/knowledge-management/README.md)
   * [Best Practices](methods-and-tools/knowledge-management/best-practices.md)
   * [Documentation as Code](methods-and-tools/knowledge-management/documentation-as-code.md)
-  * [Templates](methods-and-tools/knowledge-management/templates.md)
 * [Legal](methods-and-tools/legal.md)
+* [Dcoumentation](methods-and-tools/dcoumentation/README.md)
+  * [Templates](methods-and-tools/dcoumentation/templates.md)
 * [Tools](methods-and-tools/tools/README.md)
   * [git](methods-and-tools/tools/git.md)
 
