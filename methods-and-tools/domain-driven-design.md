@@ -1,11 +1,11 @@
 # Domain Driven Design
 
-* Domain-Driven Design, Eric Evans, 2003, Addison-Wesley Professional amzn.to/3k7g948
-* Patterns, Principles, and Practices of Domain-Driven Design Scott Millett, Nick Tune, 2015, Wrox amzn.to/2ZyaNH8
+* Domain-Driven Design, Eric Evans, 2003, Addison-Wesley Professional [amzn.to/3k7g948](https://amzn.to/3k7g948)
+* Patterns, Principles, and Practices of Domain-Driven Design Scott Millett, Nick Tune, 2015, Wrox [amzn.to/2ZyaNH8](https://amzn.to/2ZyaNH8)
 *   Domain-Driven Design, The First 15 Years, Essays from the community
 
-    leanpub.com/ddd\_first\_15\_years
-* VirtualDDD Meetup with recorded sessions: virtualddd.com
+    [leanpub.com/ddd\_first\_15\_years](https://leanpub.com/ddd\_first\_15\_years)
+* VirtualDDD Meetup with recorded sessions: [virtualddd.com](https://virtualddd.com)
 * Getting to DDD: Pragmatic or Principled Julie Lerman, KanDDDinsky 2018 [youtu.be/CPd2BVR3hEM](https://youtu.be/CPd2BVR3hEM)
 * Pluralsight DDD Fundamentals Sample for this course [github.com/ardalis/pluralsight-ddd-fundamentals](https://github.com/ardalis/pluralsight-ddd-fundamentals)
 * Jimmy Bogard, Services in DDD [bit.ly/1ifravE](https://bit.ly/1ifravE)
