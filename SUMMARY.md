@@ -6,7 +6,7 @@
 
 * [Definitions](what-is-an-architect/definitions.md)
 * [Duties of an Architect](what-is-an-architect/duties.md)
-* [Architects and the project's lifecycle](what-is-an-architect/project_lifecycle.md)
+* [Architects and the project's lifecycle](what-is-an-architect/project\_lifecycle.md)
 
 ## 🧩 Technologies
 
@@ -24,6 +24,7 @@
 * [Legal](methods-and-tools/legal.md)
 * [Documentation](methods-and-tools/dcoumentation/README.md)
   * [Templates](methods-and-tools/dcoumentation/templates.md)
+* [Domain Driven Design](methods-and-tools/domain-driven-design.md)
 * [Tools](methods-and-tools/tools/README.md)
   * [git](methods-and-tools/tools/git.md)
 
@@ -39,4 +40,3 @@
 * [Archgitecture  Frameworks](recommended-reading/archgitecture-frameworks.md)
 * [References](recommended-reading/references.md)
 * [Books](recommended-reading/books.md)
-
