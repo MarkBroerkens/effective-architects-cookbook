@@ -37,6 +37,6 @@
 
 ## 📚Recommended Reading
 
-* [Archgitecture  Frameworks](recommended-reading/archgitecture-frameworks.md)
+* [Architecture  Frameworks](recommended-reading/archgitecture-frameworks.md)
 * [References](recommended-reading/references.md)
 * [Books](recommended-reading/books.md)
