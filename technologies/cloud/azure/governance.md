@@ -4,7 +4,7 @@
 
 * [Governance in the Microsoft Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/)
 * [Management groups - Azure Governance](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview)
-* [Best Practicves Azure subscriptions - Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/organize-subscriptions)
+* [Organize Azure subscriptions - Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/organize-subscriptions)
 * [Resource naming and tagging decision guide - Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/resource-tagging/?toc=/azure/azure-resource-manager/management/toc.json)
 * [Recommended policies for Azure services - Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/recommended-policies)
 
