@@ -14,6 +14,8 @@
   * [ROS](technologies/autonomous-vehicles/ros.md)
 * [Cloud](technologies/cloud/README.md)
   * [Azure](technologies/cloud/azure/README.md)
+    * [Learning](technologies/cloud/azure/learning.md)
+    * [Governance](technologies/cloud/azure/governance.md)
     * [Azure Landingpages](technologies/cloud/azure/azure-landingpages.md)
     * [Microsoft Cloud Adaption Framework for Azure](technologies/cloud/azure/microsoft-cloud-adaption-framework-for-azure.md)
     * [Azure Well-Architected Framework](technologies/cloud/azure/azure-well-architected-framework.md)
@@ -24,9 +26,7 @@
     * [Application](technologies/cloud/azure/application.md)
     * [Storage](technologies/cloud/azure/storage.md)
     * [Compute](technologies/cloud/azure/compute.md)
-    * [Governance](technologies/cloud/azure/governance.md)
     * [Backup and Recovery](technologies/cloud/azure/backup-and-recovery.md)
-    * [Learning](technologies/cloud/azure/learning.md)
     * [Data Integration](technologies/cloud/azure/data-integration.md)
   * [Microservices](technologies/cloud/microservices.md)
 
@@ -52,6 +52,6 @@
 
 ## 📚Recommended Reading
 
-* [Architecture  Frameworks](recommended-reading/archgitecture-frameworks.md)
+* [Architecture Frameworks](recommended-reading/archgitecture-frameworks.md)
 * [References](recommended-reading/references.md)
 * [Books](recommended-reading/books.md)
