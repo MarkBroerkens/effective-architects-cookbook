@@ -2,17 +2,17 @@
 
 ## Microsoft Docs <a href="#learn-more-with-azure-documentation" id="learn-more-with-azure-documentation"></a>
 
-* [Governance in the Microsoft Cloud Adoption Framework for Azure - Cloud Adoption Framework | Microsoft Docs](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/)
-* [Organize your resources with management groups - Azure Governance - Azure governance | Microsoft Docs](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview)
-* [Organize and manage multiple Azure subscriptions - Cloud Adoption Framework | Microsoft Docs](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/organize-subscriptions)
-* [Resource naming and tagging decision guide - Cloud Adoption Framework | Microsoft Docs](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/resource-tagging/?toc=/azure/azure-resource-manager/management/toc.json)
-* [Recommended policies for Azure services - Azure Policy | Microsoft Docs](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/recommended-policies)
+* [Governance in the Microsoft Cloud Adoption Framework for Azure - Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/)
+* [Organize your resources with management groups - Azure Governance - Azure governance](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview)
+* [Organize and manage multiple Azure subscriptions - Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/organize-subscriptions)
+* [Resource naming and tagging decision guide - Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/resource-tagging/?toc=/azure/azure-resource-manager/management/toc.json)
+* [Recommended policies for Azure services - Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/recommended-policies)
 
 ## Microsoft Learn <a href="#learn-more-with-self-paced-training" id="learn-more-with-self-paced-training"></a>
 
-* [Build a cloud governance strategy on Azure - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/)
-* [Describe core Azure architectural components - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/)
-* [Microsoft Cloud Adoption Framework for Azure - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/)
+* [Build a cloud governance strategy on Azure - Learn](https://docs.microsoft.com/en-us/learn/modules/build-cloud-governance-strategy-azure/)
+* [Describe core Azure architectural components - Learn](https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/)
+* [Microsoft Cloud Adoption Framework for Azure - Learn](https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/)
 * [Introduction to Azure Blueprints - Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-blueprints/)
 * [Secure your Azure resources with Azure role-based access control (Azure RBAC) - Learn](https://docs.microsoft.com/en-us/learn/modules/secure-azure-resources-with-rbac/)
 
