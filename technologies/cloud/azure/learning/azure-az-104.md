@@ -13,6 +13,6 @@
   * [AZ-104, Module 04, Virtual Networking](https://forms.office.com/r/Q5NUiXwwYR)
 * [https://www.microsoftazuresponsorships.com/Balance](https://www.microsoftazuresponsorships.com/Balance)
 * Tooling
-  * [Run AZ cli in a docker container](https://docs.microsoft.com/en-us/cli/azure/run-azure-cli-docker)
+  * [Run Azure CLI in a docker container](https://docs.microsoft.com/en-us/cli/azure/run-azure-cli-docker)
   * [Run Azure powershell in a docker container](https://docs.microsoft.com/de-de/powershell/azure/azureps-in-docker)
 
