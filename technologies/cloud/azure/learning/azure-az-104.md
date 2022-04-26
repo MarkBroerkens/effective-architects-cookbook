@@ -7,3 +7,5 @@
   * [AZ-104, Module 02, Governance and Compliance](https://forms.office.com/pages/responsepage.aspx?id=CBY2UCOqTUmiMy\_RTWoD9GxBUjOL5r9GkBfxtOnniKFUN1RNNlVMM0lIN1hXU1U2QjBKMklTRUdZNi4u)
   * [AZ-104, Module 03, Azure Administration](https://forms.office.com/r/x3ZWEECfyB)
   * [AZ-104, Module 04, Virtual Networking](https://forms.office.com/r/Q5NUiXwwYR)
+* [https://www.microsoftazuresponsorships.com/Balance](https://www.microsoftazuresponsorships.com/Balance)
+*
