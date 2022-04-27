@@ -15,4 +15,11 @@
 * Tooling
   * [Run Azure CLI in a docker container](https://docs.microsoft.com/en-us/cli/azure/run-azure-cli-docker)
   * [Run Azure powershell in a docker container](https://docs.microsoft.com/de-de/powershell/azure/azureps-in-docker)
+* Further information
+  * Azure IP Ranges:&#x20;
+    * [https://www.microsoft.com/en-us/download/details.aspx?id=56519](https://www.microsoft.com/en-us/download/details.aspx?id=56519)
+    * [https://www.azurespeed.com/](https://www.azurespeed.com)
+  *
+
+
 

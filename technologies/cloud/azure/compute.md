@@ -6,4 +6,5 @@
 * [https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier)
 * [https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/n-tier-sql-server](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/n-tier-sql-server)
 * [Exercise - Create the social media tracker Logic App - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/route-and-process-data-logic-apps/4-ex-create-social-media-tracker)
-*
+* ARM VMs available in preview: [https://azure.microsoft.com/en-us/blog/now-in-preview-azure-virtual-machines-with-ampere-altra-armbased-processors/](https://azure.microsoft.com/en-us/blog/now-in-preview-azure-virtual-machines-with-ampere-altra-armbased-processors/)
+* Image Gallery: [https://docs.microsoft.com/en-us/azure/virtual-machines/shared-image-galleries](https://docs.microsoft.com/en-us/azure/virtual-machines/shared-image-galleries)
