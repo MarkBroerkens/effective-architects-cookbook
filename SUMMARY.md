@@ -42,6 +42,8 @@
   * [Templates](methods-and-tools/dcoumentation/templates.md)
 * [Domain Driven Design](methods-and-tools/domain-driven-design.md)
 * [Tools](methods-and-tools/tools/README.md)
+  * [Enterprise Architect](methods-and-tools/tools/enterprise-architect.md)
+  * [draw.io](methods-and-tools/tools/draw.io.md)
   * [git](methods-and-tools/tools/git.md)
 
 ## 🤹‍♀️Human Skills
@@ -49,7 +51,8 @@
 * [Daily Routine](human-skills/routines.md)
 * [Leadership](human-skills/untitled.md)
 * [Mindfulness](human-skills/mindfulness.md)
-* [NLP](human-skills/nlp.md)
+* [Neuro-linguistic programming (NLP)](human-skills/nlp.md)
+* [Non Violent Communication (NVC)](human-skills/non-violent-communication-nvc.md)
 
 ## 📚Recommended Reading
 
