@@ -1,4 +1,50 @@
-# Network
+# Virtual Networking
+
+## Overview <a href="#learn-more-with-azure-documentation" id="learn-more-with-azure-documentation"></a>
+
+\<diagram that shows the parts that belong to Governance using the Azure Images>
+
+* Virtual Networks
+* Secure Access
+  * Network Security Groups (NSG)
+  * Azure Firewall
+  * Azure Bastion
+* Load Balancing
+  * Azure Application Gateway
+  * Azure Load Balancer
+* Network Integration
+  * Azure VPN Gateway
+  * Azure EpressRoute
+  * Azure Virtual WAN
+* Troubleshooting
+  * Azure Monitor for Networks
+  * Azure Network Watcher
+
+
+
+\<list related frameworks>
+
+## Architecture <a href="#learn-more-with-azure-documentation" id="learn-more-with-azure-documentation"></a>
+
+\<decision tree>
+
+\<examples>
+
+*
+
+## Documentation <a href="#learn-more-with-azure-documentation" id="learn-more-with-azure-documentation"></a>
+
+\<how to configure the components>
+
+
+
+## Learn <a href="#learn-more-with-self-paced-training" id="learn-more-with-self-paced-training"></a>
+
+## Hands-On <a href="#learn-more-with-optional-hands-on-exercises" id="learn-more-with-optional-hands-on-exercises"></a>
+
+
+
+
 
 * [Azure Firewall and Network Virtual Appliances](https://azure.microsoft.com/de-de/blog/azure-firewall-and-network-virtual-appliances/)
 * [Plan Azure virtual networks | Microsoft Docs](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm)

@@ -38,5 +38,5 @@
 
 ### Mapping
 
-* [OctoMap - An Efficient Probabilistic 3D Mapping Framework Based on Octrees](https://octomap.github.io)
+* [OctoMap - An Efficient Probabilistic 3D Mapping Framework Based on Octrees](https://octomap.github.io/)
 

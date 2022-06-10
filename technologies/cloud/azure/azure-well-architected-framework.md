@@ -1,2 +1,0 @@
-# Azure Well-Architected Framework
-

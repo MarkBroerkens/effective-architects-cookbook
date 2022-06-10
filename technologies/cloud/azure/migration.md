@@ -1,4 +1,38 @@
-# Migration
+# Migration / Hybrid
+
+## Overview <a href="#learn-more-with-azure-documentation" id="learn-more-with-azure-documentation"></a>
+
+\<diagram that shows the parts that belong to Governance using the Azure Images>
+
+
+
+\<list related frameworks>
+
+## Architecture <a href="#learn-more-with-azure-documentation" id="learn-more-with-azure-documentation"></a>
+
+\<decision tree>
+
+\<examples>
+
+*
+
+## Documentation <a href="#learn-more-with-azure-documentation" id="learn-more-with-azure-documentation"></a>
+
+\<how to configure the components>
+
+
+
+
+
+## Learn <a href="#learn-more-with-self-paced-training" id="learn-more-with-self-paced-training"></a>
+
+## Hands-On <a href="#learn-more-with-optional-hands-on-exercises" id="learn-more-with-optional-hands-on-exercises"></a>
+
+
+
+
+
+
 
 * [Microsoft Cloud Adoption Framework for Azure | Microsoft Azure](https://azure.microsoft.com/en-us/overview/cloud-enablement/cloud-adoption-framework/#cloud-adoption-journey)
 * [Cloud Adoption Framework migration model - Cloud Adoption Framework | Microsoft Doc](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/)s

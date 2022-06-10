@@ -1,11 +1,14 @@
 # Azure AZ-104
 
+## Microsoft provided material
+
+* [Exam AZ-104: Microsoft Azure Administrator ](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
 * Learning Content: [AZ-104: Microsoft Azure Administrator ](https://aka.ms/MOC\_AZ-104T00?wt.mc\_id=esi\_m2l\_content\_wwl)
 * Labs
   * via local computer:\
     [https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
   * via lab environment provided by microsoft\
-    [https://esi.learnondemand.net/](https://esi.learnondemand.net)
+    [https://esi.learnondemand.net/](https://esi.learnondemand.net/)
 * Quizzes
   * [AZ-104, Module 01, Identity](https://forms.office.com/r/8kQHTD0y16)
   * [AZ-104, Module 02, Governance and Compliance](https://forms.office.com/pages/responsepage.aspx?id=CBY2UCOqTUmiMy\_RTWoD9GxBUjOL5r9GkBfxtOnniKFUN1RNNlVMM0lIN1hXU1U2QjBKMklTRUdZNi4u)
@@ -27,17 +30,25 @@
 * Further information
   * Azure IP Ranges:&#x20;
     * [https://www.microsoft.com/en-us/download/details.aspx?id=56519](https://www.microsoft.com/en-us/download/details.aspx?id=56519)
-    * [https://www.azurespeed.com/](https://www.azurespeed.com)
+    * [https://www.azurespeed.com/](https://www.azurespeed.com/)
 * Examples
-  * Containers: [Azure Voting App](http://20.123.231.233)
+  * Containers: [Azure Voting App](http://20.123.231.233/)
   * [https://github.com/Azure-Samples/php-docs-hello-world](https://github.com/Azure-Samples/php-docs-hello-world)
 * Certification
-  * [https://esi.microsoft.com](https://esi.microsoft.comhttps/aka.ms/esiAzureTrainingJourneyhttps://aka.ms/LxPExamDiscountVideohttps://aka.ms/ESIStudyGuideshttps://aka.ms/CelebrateYourMicrosoftSkillshttps://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
-  * [https://aka.ms/esiAzureTrainingJourney](https://esi.microsoft.comhttps/aka.ms/esiAzureTrainingJourneyhttps://aka.ms/LxPExamDiscountVideohttps://aka.ms/ESIStudyGuideshttps://aka.ms/CelebrateYourMicrosoftSkillshttps://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
-  * [https://aka.ms/LxPExamDiscountVideo](https://esi.microsoft.comhttps/aka.ms/esiAzureTrainingJourneyhttps://aka.ms/LxPExamDiscountVideohttps://aka.ms/ESIStudyGuideshttps://aka.ms/CelebrateYourMicrosoftSkillshttps://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
-  * [https://aka.ms/ESIStudyGuides](https://esi.microsoft.comhttps/aka.ms/esiAzureTrainingJourneyhttps://aka.ms/LxPExamDiscountVideohttps://aka.ms/ESIStudyGuideshttps://aka.ms/CelebrateYourMicrosoftSkillshttps://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
-  * [https://aka.ms/CelebrateYourMicrosoftSkills](https://esi.microsoft.comhttps/aka.ms/esiAzureTrainingJourneyhttps://aka.ms/LxPExamDiscountVideohttps://aka.ms/ESIStudyGuideshttps://aka.ms/CelebrateYourMicrosoftSkillshttps://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
-  * [https://docs.microsoft.com/en-us/learn/certifications/exams/az-104](https://esi.microsoft.comhttps/aka.ms/esiAzureTrainingJourneyhttps://aka.ms/LxPExamDiscountVideohttps://aka.ms/ESIStudyGuideshttps://aka.ms/CelebrateYourMicrosoftSkillshttps://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
+  * [https://esi.microsoft.com](https://esi.microsoft.comhttps/aka.ms/esiAzureTrainingJourneyhttps:/aka.ms/LxPExamDiscountVideohttps:/aka.ms/ESIStudyGuideshttps:/aka.ms/CelebrateYourMicrosoftSkillshttps:/docs.microsoft.com/en-us/learn/certifications/exams/az-104)
+  * [https://aka.ms/esiAzureTrainingJourney](https://esi.microsoft.comhttps/aka.ms/esiAzureTrainingJourneyhttps:/aka.ms/LxPExamDiscountVideohttps:/aka.ms/ESIStudyGuideshttps:/aka.ms/CelebrateYourMicrosoftSkillshttps:/docs.microsoft.com/en-us/learn/certifications/exams/az-104)
+  * [https://aka.ms/LxPExamDiscountVideo](https://esi.microsoft.comhttps/aka.ms/esiAzureTrainingJourneyhttps:/aka.ms/LxPExamDiscountVideohttps:/aka.ms/ESIStudyGuideshttps:/aka.ms/CelebrateYourMicrosoftSkillshttps:/docs.microsoft.com/en-us/learn/certifications/exams/az-104)
+  * [https://aka.ms/ESIStudyGuides](https://esi.microsoft.comhttps/aka.ms/esiAzureTrainingJourneyhttps:/aka.ms/LxPExamDiscountVideohttps:/aka.ms/ESIStudyGuideshttps:/aka.ms/CelebrateYourMicrosoftSkillshttps:/docs.microsoft.com/en-us/learn/certifications/exams/az-104)
+  * [https://aka.ms/CelebrateYourMicrosoftSkills](https://esi.microsoft.comhttps/aka.ms/esiAzureTrainingJourneyhttps:/aka.ms/LxPExamDiscountVideohttps:/aka.ms/ESIStudyGuideshttps:/aka.ms/CelebrateYourMicrosoftSkillshttps:/docs.microsoft.com/en-us/learn/certifications/exams/az-104)
+  * [https://docs.microsoft.com/en-us/learn/certifications/exams/az-104](https://esi.microsoft.comhttps/aka.ms/esiAzureTrainingJourneyhttps:/aka.ms/LxPExamDiscountVideohttps:/aka.ms/ESIStudyGuideshttps:/aka.ms/CelebrateYourMicrosoftSkillshttps:/docs.microsoft.com/en-us/learn/certifications/exams/az-104)
+
+## Third Party Material
+
+John Saville
+
+* Youtube: [AZ 104 Azure Administrator Study List](https://www.youtube.com/playlist?list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs)
+* Github: [johnbthebrit](https://github.com/johnthebrit/)
+* Github: [AZ-104 Whiteboard](https://github.com/johnthebrit/CertificationMaterials/blob/main/whiteboards/AZ-305-Whiteboard.png)
 
 
 

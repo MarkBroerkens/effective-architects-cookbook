@@ -1,6 +1,45 @@
-# Governance
+# Identities and Governance
+
+## Overview <a href="#learn-more-with-azure-documentation" id="learn-more-with-azure-documentation"></a>
+
+![](../../../../.gitbook/assets/azure\_identity.png)
+
+### Azure Active Directory (Azure AD)
+
+* users and groups
+* administrative units
+* devices
+* guest accounts
+
+### Role-Based Access Control
+
+* (custom) roles
+* access control to Azure resources
+* access assignments
+
+### Subscriptions and Governance
+
+* policies
+* resource locks
+* tags
+* resource groups
+* subscriptions
+* management groups
+* costs / budget
+
+\<list related frameworks>
+
+## Architecture <a href="#learn-more-with-azure-documentation" id="learn-more-with-azure-documentation"></a>
+
+\<decision tree>
+
+\<examples>
+
+
 
 ## Documentation <a href="#learn-more-with-azure-documentation" id="learn-more-with-azure-documentation"></a>
+
+\<how to configure the components>
 
 * [Governance in the Microsoft Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/)
 * [Management groups - Azure Governance](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview)
